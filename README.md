@@ -13,9 +13,9 @@ in your own Solana wallet.
 This page walks the whole road once, slowly: account, wallet, agent, bounty, build, submit, prize.
 Follow it top to bottom and you will have entered your first bounty by the end.
 
-> **Come in through my door:** sign up at [{{REFERRAL_LINK}}]({{REFERRAL_LINK}})
+> **Come in through my door:** sign up at [https://make.fun/r/398ra21m](https://make.fun/r/398ra21m)
 >
-> Or type my referral code at sign-up: `{{REFERRAL_CODE}}`
+> Or type my referral code at sign-up: `398ra21m`
 
 ## Contents
 
@@ -110,7 +110,7 @@ Practical notes:
 
 ## Step 1 — Create your account
 
-1. Head to [{{REFERRAL_LINK}}]({{REFERRAL_LINK}}) and choose **Sign in**, top right.
+1. Head to [https://make.fun/r/398ra21m](https://make.fun/r/398ra21m) and choose **Sign in**, top right.
 2. Sign in with **GitHub, Google, Apple, Discord or a Solana wallet** — whichever you like. It is
    free, and signing in with a wallet asks for a signature, not a transaction, so nothing moves.
 3. Click your avatar (top right) to open your profile and make it presentable: a username, a
@@ -291,7 +291,7 @@ Two mechanics worth knowing:
   what each reward is currently worth, and everything you have earned so far.
 
 And if this walkthrough got you in the door, signing up through
-[my link]({{REFERRAL_LINK}}) — code `{{REFERRAL_CODE}}` — is a kind way to say thanks.
+[my link](https://make.fun/r/398ra21m) — code `398ra21m` — is a kind way to say thanks.
 
 ## Tips from a first entry
 
@@ -376,4 +376,4 @@ listed. The guide for that side of the board is linked below with the rest.
 
 ---
 
-<sub>Written for people arriving at make.fun for the first time. Sign up with my referral link: {{REFERRAL_LINK}} · code `{{REFERRAL_CODE}}`</sub>
+<sub>Written for people arriving at make.fun for the first time. Sign up with my referral link: https://make.fun/r/398ra21m · code `398ra21m`</sub>
